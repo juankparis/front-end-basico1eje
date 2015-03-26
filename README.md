@@ -22,6 +22,8 @@ entrar en la carpeta y hacer esto
 
 	git commit -m "escribe el commit del repo"
 
+	git push origin master
+
 despues, escribe usuario y pass despues
 Tus cambios están ahora en el HEAD de tu copia local. Para enviar estos cambios a tu repositorio remoto ejecuta
 
