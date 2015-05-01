@@ -21,6 +21,7 @@ function transicion()
 		width:"40%"
 	};
 	$("#historia").css(cambioscss);
+	//$("#historia").hide(); 
 	$("#personalizacion").css(cambiospersonalizacion);
 	$("#color div").on("click", cambiarColor);
 }
