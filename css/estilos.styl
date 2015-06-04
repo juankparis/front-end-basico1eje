@@ -181,15 +181,22 @@ nav
 #luces figure:hover img
     transform: rotateX(145deg) rotateY(180deg) rotateZ(360deg);
     -webkit-transform: scale(1.1) rotateX(180deg) rotateY(180deg) rotateZ(360deg);
-    
+
 @media screen and (max-width: 600px)
+
     #camaro
         width 90%
+            
     #historia
         margin-bottom 1em
         width 83%
-    #personalizacion
+    section #personalizacion
+        margin 0
         padding 0
+        position absolute
+        left 5%
+        top 755px
+        min-width 91%
         article
             margin 0.8em
         
@@ -200,4 +207,5 @@ nav
         padding 0.5em
         a
             padding 0.5em 4em
-        
+    #personalizacion
+        top 700px
