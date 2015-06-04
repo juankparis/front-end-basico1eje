@@ -31,7 +31,7 @@ nav ul li a:hover{background:#f20707;transform:scale(1.2) rotate(5deg);-webkit-t
 #luces figure:hover img{transform:rotateX(145deg) rotateY(180deg) rotateZ(360deg);-webkit-transform:scale(1.1) rotateX(180deg) rotateY(180deg) rotateZ(360deg)}
 @media screen and (max-width: 600px){#camaro{width:90%}
 #historia{margin-bottom:1em;width:83%}
-section #personalizacion{margin:0;padding:0;position:absolute;left:5%;top:700px;min-width:91%;}
+section #personalizacion{margin:0;padding:0;position:absolute;left:5%;top:710px;min-width:91%;}
 section #personalizacion article{margin:.8em}
 }@media screen and (max-width:410px){nav ul li{display:block;margin:.3em;padding:.5em;}
 nav ul li a{padding:.5em 4em}
